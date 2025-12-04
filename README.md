@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm KaranXNandkishore01</h1>
+<h1 align="center">Hi 👋, I'm Karan Prajapati</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning enthusiast from India</h3>
+
+<div align="center">
+  <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="GitHub Readme Stats" />
+  <h1 style="font-size: 28px; margin: 10px 0;">GitHub Readme Stats</h1>
+  <p>Get dynamically generated GitHub stats on your READMEs!</p>
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanp28&label=Profile%20views&color=0e75b6&style=flat" alt="karanp28" /> </p>
 
